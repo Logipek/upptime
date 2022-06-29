@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2022-06-29": 383,
+      "2022-06-29": 450,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
@@ -360,12 +360,12 @@
     "url": "https://www.ouiheberg.com/",
     "icon": "https://favicons.githubusercontent.com/www.ouiheberg.com",
     "slug": "hebergeur",
-    "status": "up",
-    "uptime": "76.80%",
-    "uptimeDay": "13.50%",
-    "uptimeWeek": "11.59%",
-    "uptimeMonth": "4.39%",
-    "uptimeYear": "74.85%",
+    "status": "down",
+    "uptime": "76.81%",
+    "uptimeDay": "18.14%",
+    "uptimeWeek": "12.25%",
+    "uptimeMonth": "4.54%",
+    "uptimeYear": "74.86%",
     "time": 1336,
     "timeDay": 702,
     "timeWeek": 821,
@@ -467,7 +467,7 @@
       "2022-03-29": 1409,
       "2022-03-28": 1440,
       "2022-03-27": 949,
-      "2022-03-26": 818
+      "2022-03-26": 773
     }
   }
 ]
