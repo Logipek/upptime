@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/www.softleak.xyz",
     "slug": "soft-leak",
     "status": "down",
-    "uptime": "7.78%",
+    "uptime": "7.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2022-07-04": 118,
+      "2022-07-04": 212,
       "2022-07-03": 1440,
       "2022-07-02": 1440,
       "2022-07-01": 1440,
@@ -360,12 +360,12 @@
     "url": "https://www.ouiheberg.com/",
     "icon": "https://favicons.githubusercontent.com/www.ouiheberg.com",
     "slug": "hebergeur",
-    "status": "up",
-    "uptime": "76.12%",
-    "uptimeDay": "5.74%",
-    "uptimeWeek": "6.31%",
-    "uptimeMonth": "7.89%",
-    "uptimeYear": "73.80%",
+    "status": "down",
+    "uptime": "76.14%",
+    "uptimeDay": "12.30%",
+    "uptimeWeek": "7.24%",
+    "uptimeMonth": "8.01%",
+    "uptimeYear": "73.82%",
     "time": 1343,
     "timeDay": 784,
     "timeWeek": 1411,
@@ -471,7 +471,7 @@
       "2022-03-30": 1366,
       "2022-03-29": 1409,
       "2022-03-28": 1440,
-      "2022-03-27": 730
+      "2022-03-27": 643
     }
   }
 ]
