@@ -8,7 +8,7 @@
     "uptime": "6.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "8.49%",
     "time": 922,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2022-09-30": 1405,
+      "2022-10-01": 145,
+      "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
@@ -351,8 +352,7 @@
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
-      "2021-10-02": 1440,
-      "2021-10-01": 1440
+      "2021-10-02": 1440
     }
   },
   {
@@ -361,18 +361,19 @@
     "icon": "https://favicons.githubusercontent.com/www.ouiheberg.com",
     "slug": "hebergeur",
     "status": "down",
-    "uptime": "76.56%",
+    "uptime": "76.54%",
     "uptimeDay": "4.05%",
     "uptimeWeek": "0.58%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "68.58%",
+    "uptimeMonth": "1.96%",
+    "uptimeYear": "68.54%",
     "time": 1282,
     "timeDay": 846,
     "timeWeek": 846,
     "timeMonth": 871,
     "timeYear": 1038,
     "dailyMinutesDown": {
-      "2022-09-30": 1347,
+      "2022-10-01": 145,
+      "2022-09-30": 1382,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
