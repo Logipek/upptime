@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2022-10-24": 1376,
+      "2022-10-24": 1399,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
@@ -360,17 +360,17 @@
     "url": "https://www.ouiheberg.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ouiheberg.com.ico",
     "slug": "hebergeur",
-    "status": "up",
-    "uptime": "73.72%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.70%",
-    "uptimeMonth": "1.86%",
-    "uptimeYear": "63.03%",
+    "status": "down",
+    "uptime": "73.73%",
+    "uptimeDay": "1.55%",
+    "uptimeWeek": "0.92%",
+    "uptimeMonth": "1.91%",
+    "uptimeYear": "63.06%",
     "time": 1288,
     "timeDay": 1071,
     "timeWeek": 1024,
     "timeMonth": 1044,
-    "timeYear": 953,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2022-10-24": 1376,
       "2022-10-23": 1424,
@@ -510,7 +510,7 @@
       "2022-06-11": 1373,
       "2022-06-10": 1371,
       "2022-06-09": 1440,
-      "2022-06-08": 632
+      "2022-06-08": 511
     }
   }
 ]
