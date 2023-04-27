@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-26": 71,
+      "2023-04-27": 73,
+      "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -379,8 +380,7 @@
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
-      "2022-04-28": 1440,
-      "2022-04-27": 1440
+      "2022-04-28": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ouiheberg.com.ico",
     "slug": "hebergeur",
     "status": "down",
-    "uptime": "55.48%",
+    "uptime": "55.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.05%",
-    "time": 636,
-    "timeDay": 69,
-    "timeWeek": 92,
-    "timeMonth": 83,
-    "timeYear": 483,
+    "uptimeYear": "14.77%",
+    "time": 634,
+    "timeDay": 96,
+    "timeWeek": 93,
+    "timeMonth": 84,
+    "timeYear": 482,
     "dailyMinutesDown": {
-      "2023-04-26": 71,
+      "2023-04-27": 73,
+      "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
