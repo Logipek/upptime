@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.softleak.xyz.ico",
     "slug": "soft-leak",
     "status": "up",
-    "uptime": "4.77%",
+    "uptime": "4.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.70%",
-    "uptimeYear": "6.09%",
-    "time": 995,
-    "timeDay": 571,
-    "timeWeek": 1711,
-    "timeMonth": 995,
-    "timeYear": 995,
+    "uptimeMonth": "80.98%",
+    "uptimeYear": "6.36%",
+    "time": 981,
+    "timeDay": 573,
+    "timeWeek": 1716,
+    "timeMonth": 981,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2024-06-26": 15,
       "2024-06-17": 1186,
@@ -356,8 +356,7 @@
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
-      "2023-07-14": 1440,
-      "2023-07-13": 1440
+      "2023-07-14": 1440
     }
   },
   {
@@ -366,18 +365,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ouiheberg.com.ico",
     "slug": "hebergeur",
     "status": "down",
-    "uptime": "33.94%",
+    "uptime": "33.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 88,
-    "timeDay": 101,
+    "timeDay": 109,
     "timeWeek": 106,
-    "timeMonth": 103,
+    "timeMonth": 102,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2024-07-11": 72,
+      "2024-07-12": 70,
+      "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -740,8 +740,7 @@
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
-      "2023-07-14": 1440,
-      "2023-07-13": 1440
+      "2023-07-14": 1440
     }
   }
 ]
